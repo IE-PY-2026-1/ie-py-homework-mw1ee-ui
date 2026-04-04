@@ -67,6 +67,7 @@
     * 적용 내용: 전압과 효율처럼 정밀한 계산이 필요한 값은 실수형(float), 메뉴 선택이나 주파수 값은 정수형(int), 기기 명칭은 문자형(str)으로 분리하여 데이터의 구조적 완성도와 계산 정확도를 높임.
 
 ### **📁 증빙 자료:**
+[1차 AI협업캡처.pdf 첨부 완료](https://github.com/user-attachments/files/26479465/1.AI.pdf)
 
 ## 🟩 [2차 과제: V1.0] 입출력 + 리스트 + 조건문 - 향후 작성 예정
 ### **✨2차 과제 내용:**
@@ -110,6 +111,7 @@
 문제 1: 물리량 연산 시 단위(m, u, k) 처리 문제 (ZeroDivisionError 등)원인: 사용자가 kHz 단위로 주파수를 입력했을 때, 공식에 그대로 대입하면 값이 너무 작아져 연산 오류가 발생할 가능성이 높음.해결: float()로 형변환 시 * 1000(k단위) 또는 * 1e-6(u단위)과 같은 보정치를 연산 식에 포함하여 표준 단위(SI unit)로 통일해 해결함.문제 2: 조건문 범위 설정 시 논리적 중첩원인: 리플 범위를 설정할 때 if ripple < 10: 뒤에 if ripple < 5:를 두어 모든 조건이 첫 번째에서 걸리는 현상 발생.해결: if-elif 구조를 사용하여 가장 좁은(까다로운) 조건부터 검사하거나, and 연산자를 통해 범위를 명확히(예: 5 <= ripple < 10) 지정해야 함을 학습함.
 
 ### **📁 증빙 자료:**
+[2차 AI협업캡처.pdf 첨부 완료](https://github.com/user-attachments/files/26479471/2.AI.pdf)
 ![2차과제_실행코드](https://github.com/user-attachments/assets/7e1d5e8a-6795-4d9e-bdc4-af63a79ee704)
 ![2차과제_실행결과](https://github.com/user-attachments/assets/956f85ac-b5f7-4e1a-ade9-d24a7ff6883d)
 
@@ -165,6 +167,7 @@
 해결: 리스트 변수 선언 위치를 while 루프 외부로 이동시켜 프로그램 실행 동안 데이터가 지속적으로 누적되도록 수정함.
 
 ### **📁 증빙 자료:**
+[3차 AI협업캡처.pdf 첨부완료](https://github.com/user-attachments/files/26479481/3.AI.pdf)
 ![3차과제_실행코드](https://github.com/user-attachments/assets/d92edaf9-b7ac-4a4e-810f-ced25f99f8a7)
 ![3차과제_실행결과](https://github.com/user-attachments/assets/a3e8be2d-f78c-4d8b-8fb5-1d1edb1e9242)
 
@@ -220,5 +223,6 @@
 해결: 추가 모드인 'a'(append)를 사용하거나, 전체 리스트를 한 번에 저장하는 로직을 도입하여 설계 이력이 누적되도록 개선함.
 
 ### **📁 증빙 자료:**
+[4차 AI협업캡처.pdf 첨부완료](https://github.com/user-attachments/files/26479482/4.AI.pdf)
 ![4차과제_실행코드](https://github.com/user-attachments/assets/9a5b8313-b4e7-4110-a4d2-d63111f1bc12)
 ![4차과제_실행결과](https://github.com/user-attachments/assets/5b933f1e-18d2-4691-89cc-24fcf14e0f31)
