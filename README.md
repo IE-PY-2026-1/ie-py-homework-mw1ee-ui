@@ -168,8 +168,8 @@
 
 ### **📁 증빙 자료:**
 [3차 AI협업캡처.pdf 첨부완료](https://github.com/user-attachments/files/26479481/3.AI.pdf)
-![3차과제_실행코드](https://github.com/user-attachments/assets/d92edaf9-b7ac-4a4e-810f-ced25f99f8a7)
-![3차과제_실행결과](https://github.com/user-attachments/assets/a3e8be2d-f78c-4d8b-8fb5-1d1edb1e9242)
+[3차과제_실행결과.jpg]<img width="877" height="1236" alt="스크린샷 2026-04-25 140056" src="https://github.com/user-attachments/assets/c982aa0e-1efd-4d44-8ae6-355b91fba9e5" />
+
 
 ### 🟥 [4차 과제: V4.0] 모듈화 및 데이터 확장 (배열과 함수) - 🌟최종 완성 -- 향후 작성 예정
 ### **✨4차 과제 업데이트 내용:**
@@ -224,5 +224,5 @@
 
 ### **📁 증빙 자료:**
 [4차 AI협업캡처.pdf 첨부완료](https://github.com/user-attachments/files/26479482/4.AI.pdf)
-![4차과제_실행코드](https://github.com/user-attachments/assets/9a5b8313-b4e7-4110-a4d2-d63111f1bc12)
-![4차과제_실행결과](https://github.com/user-attachments/assets/5b933f1e-18d2-4691-89cc-24fcf14e0f31)
+[4차과제_실행결과.jpg]<img width="870" height="1218" alt="스크린샷 2026-04-25 140243" src="https://github.com/user-attachments/assets/540c1e74-9b2e-4c7f-a92b-8fdecfb4eb94" />
+
