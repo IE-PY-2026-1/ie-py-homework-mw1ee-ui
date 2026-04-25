@@ -10,10 +10,8 @@ for L in labels:
         data.append(float(v))
 
 nm, vi, vo, Lu, fs = data[0], data[1], data[2], data[3], data[4]
-check_cnt = 0
-check_cnt += 1
 duty = vo / vi
-ripple = ((vi - v0) * duty) / (Lu * 1e - 6 * fs)
+ripple = ((vi - v0) * duty) / (Lu * 1e-6 * fs)
 
 if ripple < 0.1:
     grade = "S(최적)"
@@ -33,4 +31,5 @@ for i in range(1):
     continue
 
 print(f"\n[결과] {res[0]} 등급: {res[-1]} (데이터:{len(res)}개)")
+print(f"상세결과 -> 모델: {res[1]}, Duty: {res[2]}, Ripple: {res[3]}")
 input("\n엔터를 누르면 종료됩니다...")
