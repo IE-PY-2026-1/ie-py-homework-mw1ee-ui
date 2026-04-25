@@ -112,8 +112,8 @@
 
 ### **📁 증빙 자료:**
 [2차 AI협업캡처.pdf 첨부 완료](https://github.com/user-attachments/files/26479471/2.AI.pdf)
-![2차과제_실행코드](https://github.com/user-attachments/assets/7e1d5e8a-6795-4d9e-bdc4-af63a79ee704)
-![2차과제_실행결과](https://github.com/user-attachments/assets/956f85ac-b5f7-4e1a-ade9-d24a7ff6883d)
+[2차과제 실행결과.jpg]<img width="883" height="1072" alt="스크린샷 2026-04-25 133149" src="https://github.com/user-attachments/assets/eb6c444a-207d-486a-b299-6f82274c7e67" />
+
 
 ## 🟨 [3차 과제: V3.0] 무한 루프와 메뉴 시스템 (반복문) - 향후 작성 예정
 ### **✨3차 과제 업데이트 내용:**
