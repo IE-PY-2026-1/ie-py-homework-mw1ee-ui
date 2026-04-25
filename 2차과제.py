@@ -11,7 +11,7 @@ for L in labels:
 
 nm, vi, vo, Lu, fs = data[0], data[1], data[2], data[3], data[4]
 duty = vo / vi
-ripple = ((vi - v0) * duty) / (Lu * 1e-6 * fs)
+ripple = ((vi - vo) * duty) / (Lu * 1e-6 * fs)
 
 if ripple < 0.1:
     grade = "S(최적)"
